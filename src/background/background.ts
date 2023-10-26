@@ -1,4 +1,4 @@
-console.log("hello background")
+console.log("hello background...")
 
 // when chrome start, the service work is inactive
 // then add below listener to keep service work active
