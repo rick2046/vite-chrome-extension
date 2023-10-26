@@ -37,7 +37,7 @@ Then build whole project to gen dist folder.
 Now support background work, popup and override.
 
 ```javascript
-npm initall
+npm install
 
 npm run build
 ```
